@@ -34,7 +34,7 @@ classificati in:
    serie temporale;
 
 -  dati territoriali, qualunque informazione geograficamente
-   localizzata [#]_;
+   localizzata [1]_;
 
 -  dati personali, qualunque informazione relativa a persona fisica,
    persona giuridica, ente od associazione, identificati o
@@ -44,12 +44,12 @@ classificati in:
 
 -  altre tipologie di dati, definite come “tutte le basi di dati gestite
    per il perseguimento dei fini istituzionali, comprese quelle connesse
-   al funzionamento dell’amministrazione” [#]_;
+   al funzionamento dell’amministrazione” [1]_;
 
 -  dati aperti, cioè “usabili, riutilizzabili e ri-distribuibili
    liberamente da chiunque anche per finalità commerciali, soggetto al
    massimo alla richiesta di attribuzione e condivisione allo stesso
-   modo” [#]_.
+   modo” [3]_.
 
 
 Metadato (*Metadata*)
@@ -166,16 +166,16 @@ il sistema di gestione dell’identificativo sia mantenuto funzionante nel
 tempo, ma che lo sia anche l’accesso all’oggetto associato. Un dato può
 essere associato ad uno o più tipi di Identificativi Persistenti.
 
-.. [#]
+.. [1]
    Seguendo la direttiva comunitaria INSPIRE sono “dati che attengono,
    direttamente o indirettamente, a una località o un’area geografica
    specifica” (EC Directive 2007/2/EC)
 
-.. [#]
+.. [2]
    Sono quelle informazioni legate, ad esempio, al personale, bilancio,
    protocollo, gestione documentale, ecc.)” (Art.
 
-.. [#]
+.. [3]
    24-quater, comma 2, D.L. n. 90/2014, convertito in Legge n.
    114/2014).
 
