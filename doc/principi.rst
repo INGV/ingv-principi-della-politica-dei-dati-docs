@@ -246,37 +246,6 @@ formazione del personale ai fini dell’applicazione della politica dei
 dati.
 
 .. [#]
-   Seguendo la direttiva comunitaria INSPIRE sono “dati che attengono,
-   direttamente o indirettamente, a una località o un’area geografica
-   specifica” (EC Directive 2007/2/EC)
-
-.. [#]
-   Sono quelle informazioni legate, ad esempio, al personale, bilancio,
-   protocollo, gestione documentale, ecc.)” (Art.
-
-.. [#]
-   24-quater, comma 2, D.L. n. 90/2014, convertito in Legge n.
-   114/2014).
-
-   Il Codice dell’Amministrazione Digitale (CAD; D.Lgs. 7 marzo 2005
-   n.82, Art. 68, comma 3) considera dati digitali di tipo aperto quelli
-   che presentano le seguenti caratteristiche:
-
-   sono disponibili secondo i termini di una licenza che ne permetta
-   l’utilizzo da parte di chiunque, anche per finalità commerciali, in
-   formato disaggregato;
-
-   sono accessibili attraverso le tecnologie dell’informazione e della
-   comunicazione, ivi comprese le reti telematiche pubbliche e private,
-   in formati aperti, sono adatti all’utilizzo automatico da parte di
-   programmi per elaboratori e sono provvisti dei relativi metadati;
-
-   sono resi disponibili gratuitamente attraverso le tecnologie
-   dell’informazione e della comunicazione, ivi comprese le reti
-   telematiche pubbliche e private, oppure sono resi disponibili ai
-   costi marginali sostenuti per la loro riproduzione e divulgazione.
-
-.. [#]
    Appare arduo includere la molteplicità di interventi legislativi in
    materia. Pertanto, al fine di sistematizzare e rendere di percezione
    immediata lo stato delle norme vigenti, è stata predisposta una

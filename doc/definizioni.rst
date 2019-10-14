@@ -35,7 +35,7 @@ classificati in:
 
 -  dati territoriali, qualunque informazione geograficamente
    localizzata [#]_;
-.. [
+
 -  dati personali, qualunque informazione relativa a persona fisica,
    persona giuridica, ente od associazione, identificati o
    identificabili, anche indirettamente, mediante riferimento a
@@ -165,3 +165,34 @@ dell’oggetto associato sia mantenuta nel tempo. Ciò implica non solo che
 il sistema di gestione dell’identificativo sia mantenuto funzionante nel
 tempo, ma che lo sia anche l’accesso all’oggetto associato. Un dato può
 essere associato ad uno o più tipi di Identificativi Persistenti.
+
+.. [#]
+   Seguendo la direttiva comunitaria INSPIRE sono “dati che attengono,
+   direttamente o indirettamente, a una località o un’area geografica
+   specifica” (EC Directive 2007/2/EC)
+
+.. [#]
+   Sono quelle informazioni legate, ad esempio, al personale, bilancio,
+   protocollo, gestione documentale, ecc.)” (Art.
+
+.. [#]
+   24-quater, comma 2, D.L. n. 90/2014, convertito in Legge n.
+   114/2014).
+
+   Il Codice dell’Amministrazione Digitale (CAD; D.Lgs. 7 marzo 2005
+   n.82, Art. 68, comma 3) considera dati digitali di tipo aperto quelli
+   che presentano le seguenti caratteristiche:
+
+   sono disponibili secondo i termini di una licenza che ne permetta
+   l’utilizzo da parte di chiunque, anche per finalità commerciali, in
+   formato disaggregato;
+
+   sono accessibili attraverso le tecnologie dell’informazione e della
+   comunicazione, ivi comprese le reti telematiche pubbliche e private,
+   in formati aperti, sono adatti all’utilizzo automatico da parte di
+   programmi per elaboratori e sono provvisti dei relativi metadati;
+
+   sono resi disponibili gratuitamente attraverso le tecnologie
+   dell’informazione e della comunicazione, ivi comprese le reti
+   telematiche pubbliche e private, oppure sono resi disponibili ai
+   costi marginali sostenuti per la loro riproduzione e divulgazione.
