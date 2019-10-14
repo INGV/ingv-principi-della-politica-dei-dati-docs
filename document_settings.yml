@@ -1,0 +1,12 @@
+document:
+  name: Principi della Politica dei Dati dell'INGV
+  description: |
+    Principi della Politica dei Dati dell'Istituto Nazionale di Geofisica e Vulcanologia.
+  tags:
+    - INGV
+    - politica dei dati
+    - database
+    - dataset
+    - ricerca scientifica
+    - metadati
+    - FAIR
