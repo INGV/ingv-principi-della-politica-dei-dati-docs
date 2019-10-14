@@ -34,8 +34,8 @@ classificati in:
    serie temporale;
 
 -  dati territoriali, qualunque informazione geograficamente
-   localizzata [1]_;
-
+   localizzata [#]_;
+.. [
 -  dati personali, qualunque informazione relativa a persona fisica,
    persona giuridica, ente od associazione, identificati o
    identificabili, anche indirettamente, mediante riferimento a
@@ -44,14 +44,13 @@ classificati in:
 
 -  altre tipologie di dati, definite come “tutte le basi di dati gestite
    per il perseguimento dei fini istituzionali, comprese quelle connesse
-   al funzionamento dell’amministrazione” [2]_;
+   al funzionamento dell’amministrazione” [#]_;
 
 -  dati aperti, cioè “usabili, riutilizzabili e ri-distribuibili
    liberamente da chiunque anche per finalità commerciali, soggetto al
    massimo alla richiesta di attribuzione e condivisione allo stesso
-   modo” [3]_.
+   modo” [#]_.
 
--  
 
 Metadato (*Metadata*)
 ---------------------

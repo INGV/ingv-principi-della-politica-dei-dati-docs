@@ -63,7 +63,7 @@ L’INGV si impegna ad applicare e recepire la complessa e stratificata
 normativa nazionale e comunitaria vigente riguardante la disponibilità
 dei dati delle pubbliche amministrazioni, i servizi di accesso ai dati,
 la regolamentazione della proprietà intellettuale, le modalità della
-fruibilità del dato ed i criteri per la gestione dei dati aperti. [4]_
+fruibilità del dato ed i criteri per la gestione dei dati aperti. [#]_
 
 Interoperabilità
 ----------------
@@ -191,7 +191,7 @@ Professionalità
 L’INGV per la realizzazione ed effettiva implementazione dei principi
 della gestione dei dati si impegna all’allocazione di risorse
 professionali definendo le competenze necessarie e le corrispondenti
-responsabilità [5]_.
+responsabilità [#]_.
 
 Assegnazione Identificativi Persistenti
 ---------------------------------------
@@ -245,16 +245,16 @@ gestione dei dati e di garantirne l’applicazione, di promuovere la
 formazione del personale ai fini dell’applicazione della politica dei
 dati.
 
-.. [1]
+.. [#]
    Seguendo la direttiva comunitaria INSPIRE sono “dati che attengono,
    direttamente o indirettamente, a una località o un’area geografica
    specifica” (EC Directive 2007/2/EC)
 
-.. [2]
+.. [#]
    Sono quelle informazioni legate, ad esempio, al personale, bilancio,
    protocollo, gestione documentale, ecc.)” (Art.
 
-.. [3]
+.. [#]
    24-quater, comma 2, D.L. n. 90/2014, convertito in Legge n.
    114/2014).
 
@@ -276,7 +276,7 @@ dati.
    telematiche pubbliche e private, oppure sono resi disponibili ai
    costi marginali sostenuti per la loro riproduzione e divulgazione.
 
-.. [4]
+.. [#]
    Appare arduo includere la molteplicità di interventi legislativi in
    materia. Pertanto, al fine di sistematizzare e rendere di percezione
    immediata lo stato delle norme vigenti, è stata predisposta una
@@ -284,7 +284,7 @@ dati.
    a livello internazionale, europeo e nazionale alla data di stesura
    del presente documento (Allegato 1).
 
-.. [5]
+.. [#]
    Le Linee Guida AgID (2014) individuano le seguenti figure
    professionali per una appropriata gestione dei dati:
 
