@@ -25,6 +25,7 @@ Principi della politica dei dati dell'INGV
 
 .. toctree::
    :numbered:
+   :caption: Content Index
    :hidden:
 
    doc/premessa
