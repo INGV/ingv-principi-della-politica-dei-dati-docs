@@ -28,7 +28,7 @@ $ docker run -it -v /tmp/temp_dir:/tmp/temp_dir --rm python:3.7 bash
 
 ## Guide
 ### Configurazione CircleCI + GitHub Pages
-- https://circleci.com/blog/continuous-integration-for-adonis-apis/
+- https://circleci.com/blog/deploying-documentation-to-github-pages-with-continuous-integration/
 
 ### Sphinx:
 - https://www.sphinx-doc.org/en/master/usage/configuration.html
