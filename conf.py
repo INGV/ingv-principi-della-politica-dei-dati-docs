@@ -56,6 +56,11 @@ latex_documents = [
     ('index', 'test-docs-italia.tex', project, author, 'manual'),
 ]
 
+latex_elements = {
+    'extraclassoptions': 'openany,oneside'
+}
+epub_basename = u'test-docs-italia'
+
 
 # -- Options for HTML output -------------------------------------------------
 

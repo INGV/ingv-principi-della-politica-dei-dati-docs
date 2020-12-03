@@ -10,3 +10,11 @@ document:
     - ricerca scientifica
     - metadati
     - FAIR
+    github_user: ingv
+    github_repo: ingv-principi-della-politica-dei-dati-docs
+    github_version: develop/docs
+    downloads:
+      - type: pdf
+        url: test-docs-italia.pdf
+      - type: epub
+        url: test-docs-italia.epub
