@@ -3,9 +3,9 @@
 +-------------------------------+
 
 
-##########################################
-Principi della politica dei dati dell'INGV
-##########################################
+===============================
+Progetti Software - Ufficio ICT
+===============================
 
 :Authors:
         G. Puglisi (coordinatore),
@@ -26,11 +26,13 @@ Principi della politica dei dati dell'INGV
 .. toctree::
    :numbered:
    :caption: Content Index
-   :hidden:
 
-   doc/premessa
-   doc/definizioni
-   doc/principi
+   doc/premessa.rst
+   doc/definizioni.rst
+   doc/principi.rst
+
+.. toctree::
+   :hidden:
 
 
 .. |ingv_logo_text_two_lines| image:: images/ingv_logo_text_two_lines.png
