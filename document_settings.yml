@@ -1,20 +1,12 @@
+--- 
 document:
   name: Principi della Politica dei Dati dell'INGV
-  description: |
-    Principi della Politica dei Dati dell'Istituto Nazionale di Geofisica e Vulcanologia.
-  tags:
-    - INGV
-    - politica dei dati
-    - database
-    - dataset
-    - ricerca scientifica
-    - metadati
-    - FAIR
-    github_user: ingv
-    github_repo: ingv-principi-della-politica-dei-dati-docs
-    github_version: develop/docs
-    downloads:
-      - type: pdf
-        url: test-docs-italia.pdf
-      - type: epub
-        url: test-docs-italia.epub
+  description: Principi della Politica dei Dati dell'Istituto Nazionale di Geofisica e Vulcanologia.
+  github_user: ingv
+  github_repo: ingv-principi-della-politica-dei-dati-docs
+  github_version: develop
+  downloads:
+    - type: pdf
+      url: test-docs-italia.pdf
+    - type: epub
+      url: test-docs-italia.epub
